@@ -13,7 +13,7 @@ module.exports = {
     API_OG: process.env.API_OG,
   },
   // Use the CDN in production and localhost for development.
-  assetPrefix: isProd ? 'https://cdn.statically.io/gh/NaveenDA/naveenda.github.io/gh-pages/' : '',
+  assetPrefix: isProd ? 'https://cdn.statically.io/gh/757mnr/757mnr.github.io/gh-pages/' : '',
 
 
   webpack: (config) => {
