@@ -1,0 +1,22 @@
+{
+  "name": "757live.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd src && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/757mnr/757mnr.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/757mnr/757mnr.github.io/issues"
+  },
+  "homepage": "https://github.com/757mnr/757mnr.github.io#readme",
+  "dependencies": {
+  }
+}
